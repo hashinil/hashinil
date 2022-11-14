@@ -3,12 +3,12 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/paTz7UZbPfTZFRYnnB/giphy.gif" width="200"/>
 </div>
-<div id="badges">
-  <a href="your-linkedin-URL">
+<div id="badges" align="center">
+  <a href="https://www.linkedin.com/in/hashiniliyanage/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 </div>
-</hr>
+---
 ### Hi there 👋
 <!--
 **hashinil/hashinil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
