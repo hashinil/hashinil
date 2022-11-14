@@ -16,7 +16,7 @@ Hi there 👋
 
 ### :woman_technologist: About Me :
 
-- 🔭 Software Engineer (11 Years) who is passionate about data engineering
+- 🔭 Software Engineer who is passionate about data engineering
 - 🌱 I’m currently learning 'Azure'
 - :house: Born in Sri Lanka and Live in Luxembourg
 
@@ -25,6 +25,8 @@ Hi there 👋
 ### :hammer_and_wrench: Languages and Tools :
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="py" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" title="Php" alt="php" width="40" height="40"/>&nbsp;
+  https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg
 </div>
   
 
