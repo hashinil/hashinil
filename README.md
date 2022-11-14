@@ -1,4 +1,5 @@
 
+Hi there 👋
 
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/paTz7UZbPfTZFRYnnB/giphy.gif" width="200"/>
@@ -9,7 +10,7 @@
   </a>
 </div>
 </br>
-### Hi there 👋
+
 
 ---
 
@@ -17,6 +18,7 @@
 
 - 🔭 Software Engineer (11 Years) who is passionate about data engineering
 - 🌱 I’m currently learning 'Azure'
+- :house: 
 <!--
 **hashinil/hashinil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
