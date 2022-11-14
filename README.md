@@ -8,13 +8,15 @@
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 </div>
-
----
+</br>
 ### Hi there 👋
 
 ---
 
 ### :woman_technologist: About Me :
+
+- 🔭 Software Engineer (11 Years) who is passionate about data engineering
+- 🌱 I’m currently learning 'Azure'
 <!--
 **hashinil/hashinil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
