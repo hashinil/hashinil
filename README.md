@@ -18,7 +18,16 @@ Hi there 👋
 
 - 🔭 Software Engineer (11 Years) who is passionate about data engineering
 - 🌱 I’m currently learning 'Azure'
-- :house: 
+- :house: Born in Sri Lanka and Live in Luxembourg
+
+---
+
+### :hammer_and_wrench: Languages and Tools :
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="py" width="40" height="40"/>&nbsp;
+</div>
+  
+
 <!--
 **hashinil/hashinil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
