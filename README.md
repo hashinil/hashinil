@@ -1,12 +1,16 @@
 
-<h1>Hi there </h1>👋
+<h1>Hi There 👋</h1>
 
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/paTz7UZbPfTZFRYnnB/giphy.gif" width="200"/>
 </div>
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/hashiniliyanage/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white" alt="LinkedIn Badge"/>
+  <a href="https://github.com/hashinil/hashinil">
+    <img src="https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=GitHub&logoColor=white" alt="LinkedIn Badge"/>
+  <a href="https://www.credly.com/users/hashini-liyanage">
+    <img src="https://img.shields.io/badge/Credly-FF6B00.svg?style=for-the-badge&logo=Credly&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 </div>
 </br>
@@ -17,7 +21,8 @@
 ### :woman_technologist: About Me :
 
 - 🔭 Software Engineer who is passionate about data engineering
-- 🌱 I’m currently learning 'Azure'
+- 🌱 I’m currently learning 'Designing and Implementing a Data Science Solution on Azure'
+- ✨ I have completed 'IBM Data Science Professional Certificate'
 - :house: Born in Sri Lanka and Live in Luxembourg
 
 ---
