@@ -22,9 +22,11 @@
 
 - 🔭 Software Engineer who is passionate about data engineering
 - 🌱 I’m currently learning 'Designing and Implementing a Data Science Solution on Azure'
-- ✨ I have completed; 
-      1. IBM Data Science Professional Certificate
-      2. Microsoft Certified: Azure AI Fundamentals
+- ✨ I have completed;
+  
+    :trophy: IBM Data Science Professional Certificate
+    
+    :trophy: Microsoft Certified: Azure AI Fundamentals
 - :house: Born in Sri Lanka and Live in Luxembourg
 
 ---
