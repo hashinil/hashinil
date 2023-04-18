@@ -21,7 +21,7 @@
 ### :woman_technologist: About Me :
 
 - 🔭 Software Engineer who is passionate about data engineering
-- 🌱 I’m currently learning 'Designing and Implementing a Data Science Solution on Azure'
+- 🌱 I’m currently learning 'DevOps Engineer - Exam AZ-400: Designing and Implementing Microsoft DevOps Solutions'
 - ✨ I have completed;
   
     :trophy: IBM Data Science Professional Certificate
