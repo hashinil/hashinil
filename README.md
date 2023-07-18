@@ -21,7 +21,13 @@
 ### :woman_technologist: About Me :
 
 - 🔭 Software Engineer who is passionate about data engineering
-- 🌱 I’m currently learning 'DevOps Engineer - Exam AZ-400: Designing and Implementing Microsoft DevOps Solutions'
+  
+- 🌱 I’m currently following
+    - Python Mega Course: Learn Python in 60Days, Udemy
+    - Data Analyst Course: Complete Data Analyst Bootcamp, Udemy
+- 🌱 I’m Getting ready for
+    - PL-300 - Microsoft Power BI Data Analyst
+      
 - ✨ I have completed;
   
     :trophy: IBM Data Science Professional Certificate
