@@ -20,7 +20,7 @@
 
 ### :woman_technologist: About Me :
 
-- 🔭 Software Engineer who is passionate about data engineering
+- 🔭 Software Engineer who is passionate about data 
   
 - 🌱 I’m currently following
     - Python Mega Course: Learn Python in 60Days, Udemy
