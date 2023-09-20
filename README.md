@@ -31,7 +31,7 @@
   
     :trophy:Microsoft Certified Power BI Data Analyst Associate: PL-300
 
-    :trophy: IBM Certified Data Science Professional: (Project)
+    :trophy: IBM Certified Data Science Professional
     
     :trophy: Microsoft Certified Azure AI Fundamentals: AI-900
 
