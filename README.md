@@ -21,9 +21,11 @@
 ### :woman_technologist: About Me :
 
 - 🔭 Software Engineer who is passionate about data 
+
   
 - 🌱 I’m currently
     - Pursuing Data Analyst Bootcamp, Udemy
+
       
 - ✨ I am;
   
@@ -32,11 +34,13 @@
     :trophy: IBM Certified Data Science Professional: (Project)
     
     :trophy: Microsoft Certified Azure AI Fundamentals: AI-900
+
   
 - 🌱 Also Completed
     - Power BI Data Analyst, Udemy.
-    - Completed Python Mega Course, Udemy.
-    - Completed Python Master Class, Udemy.
+    - Python Mega Course, Udemy.
+    - Python Master Class, Udemy.
+
   
 - :house: Born in Sri Lanka and Live in Luxembourg
 
