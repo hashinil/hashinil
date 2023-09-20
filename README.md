@@ -22,17 +22,22 @@
 
 - 🔭 Software Engineer who is passionate about data 
   
-- 🌱 I’m currently following
-    - Python Mega Course: Learn Python in 60Days, Udemy
-    - Data Analyst Course: Complete Data Analyst Bootcamp, Udemy
-- 🌱 I’m Getting ready for
-    - PL-300 - Microsoft Power BI Data Analyst
+- 🌱 I’m currently
+    - Pursuing Data Analyst Bootcamp, Udemy
       
-- ✨ I have completed;
+- ✨ I am;
   
-    :trophy: IBM Data Science Professional Certificate
+    :trophy:Microsoft Certified Power BI Data Analyst Associate: PL-300
+
+    :trophy: IBM Certified Data Science Professional: (Project)
     
-    :trophy: Microsoft Certified: Azure AI Fundamentals
+    :trophy: Microsoft Certified Azure AI Fundamentals: AI-900
+  
+- 🌱 Also Completed
+    - Power BI Data Analyst, Udemy.
+    - Completed Python Mega Course, Udemy.
+    - Completed Python Master Class, Udemy.
+  
 - :house: Born in Sri Lanka and Live in Luxembourg
 
 ---
