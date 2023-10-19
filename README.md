@@ -97,6 +97,11 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JS" alt="js" width="40" height="40"/>&nbsp;
 </div>
 <div>
+  <img width="30" alt="solr" src="https://github.com/hashinil/hashinil/assets/33922245/ff7d3de5-5576-46f1-a770-f865de31b5c1">
+<img width="80" alt="solr" src="https://github.com/hashinil/hashinil/assets/33922245/1db03a2e-ade9-46d7-83a8-bf1ef8c6c9b2">
+
+
+
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="git" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/jira/jira-original-wordmark.svg" title="Jira" alt="jira" width="40" height="40"/>&nbsp;
 </div>
