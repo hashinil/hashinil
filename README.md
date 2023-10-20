@@ -1,4 +1,4 @@
-<h1>Hi There 👋 </h1>
+<h1>Hi there 👋 </h1>
 
 <div id="header" align="center">
 	<img src="https://media.giphy.com/media/paTz7UZbPfTZFRYnnB/giphy.gif" width="200"/>
@@ -18,7 +18,7 @@
 
 ----------------------------------------
 
-:woman_technologist: IT Professional, passionate about **DATA.** 
+:woman_technologist: IT professional, passionate about **DATA.** 
 
 ‍🎓 **11+** years of experience in IT industry and holding a **BSc** in information technology.
 
