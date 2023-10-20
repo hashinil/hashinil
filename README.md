@@ -22,11 +22,13 @@
 
 ‍🎓 **11+** years of experience in IT industry and holding a **BSc** in information technology.
 
-👩‍💻 Microsoft certified **‘Power BI Data Analyst’** and IBM certified **'Data Science Professional'.**
+👩‍💻 Microsoft certified **‘Power BI Data Analyst’.** 
+
+👩‍💻 IBM certified **'Data Science Professional'.**
 
 📊 Data visualization and storytelling skills using **Power BI** and **Tableau**.
 
-👉 You will find my works/ skills bellow:
+👉 You will find my work/ skills bellow:
 
 -----------------------------------------
 
@@ -34,7 +36,7 @@
   - **[Portfolio](https://hashinil.github.io/HashiniLiyanage.github.io/index.html)**
   - **[Git](https://github.com/hashinil/)**
     
-## Data Analytic Projects:
+## Data Analytics Projects:
   - **[Sql](https://github.com/hashinil/sql_for_data_analytics)**
   - **[Excel](https://github.com/hashinil/excel_for_data_analytics)**
   - **[Python](https://github.com/hashinil/python_all_projects)**
@@ -56,7 +58,11 @@
 	<img width="33" alt="ex" src="https://github.com/hashinil/hashinil/assets/33922245/66217e2b-0469-430b-877a-6454e1744d30">
 	<img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="Mysql" alt="mysql" width="40" height="40"/>&nbsp;
 	<img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" title="Jupyter" alt="jupyter" width="40" height="40"/>&nbsp;
-	<b>Pandas, NumPy, matplotlib, Seaborn, BeautifulSoup, NoSQL</b>
+	<img src="https://github.com/hashinil/hashinil/assets/33922245/be25117e-630a-4200-97c1-5e2dc714205a" title="pandas" alt="pandas" width="120" height="30"/>&nbsp;
+	<img src="https://github.com/hashinil/hashinil/assets/33922245/38772bb2-0320-410b-8dfe-ec16d85ca22b" title="numpy" alt="numpy" width="120" height="30"/>&nbsp;
+	<img src="https://github.com/hashinil/hashinil/assets/33922245/ea09a08a-fe83-4cd7-9bcb-8d965422f796" title="matplotlib" alt="matplotlib" width="120" height="30"/>&nbsp;
+	<img src="https://github.com/hashinil/hashinil/assets/33922245/35eb9c81-a6fa-4779-87ef-5a42d807654d" title="Seaborn" alt="Seaborn" width="120" height="30"/>&nbsp;
+	<img src="https://github.com/hashinil/hashinil/assets/33922245/ec73ce0b-355b-41fa-8a2a-3fd652317ad8" title="BS" alt="BS" width="120" height="30"/>&nbsp;
 </div> 
 </br>
 
