@@ -58,11 +58,11 @@
 	<img width="33" alt="ex" src="https://github.com/hashinil/hashinil/assets/33922245/66217e2b-0469-430b-877a-6454e1744d30">
 	<img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="Mysql" alt="mysql" width="40" height="40"/>&nbsp;
 	<img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" title="Jupyter" alt="jupyter" width="40" height="40"/>&nbsp;
-	<img src="https://github.com/hashinil/hashinil/assets/33922245/be25117e-630a-4200-97c1-5e2dc714205a" title="pandas" alt="pandas" width="120" height="30"/>&nbsp;
-	<img src="https://github.com/hashinil/hashinil/assets/33922245/38772bb2-0320-410b-8dfe-ec16d85ca22b" title="numpy" alt="numpy" width="120" height="30"/>&nbsp;
-	<img src="https://github.com/hashinil/hashinil/assets/33922245/ea09a08a-fe83-4cd7-9bcb-8d965422f796" title="matplotlib" alt="matplotlib" width="120" height="30"/>&nbsp;
-	<img src="https://github.com/hashinil/hashinil/assets/33922245/35eb9c81-a6fa-4779-87ef-5a42d807654d" title="Seaborn" alt="Seaborn" width="120" height="30"/>&nbsp;
-	<img src="https://github.com/hashinil/hashinil/assets/33922245/ec73ce0b-355b-41fa-8a2a-3fd652317ad8" title="BS" alt="BS" width="120" height="30"/>&nbsp;
+	<img src="https://github.com/hashinil/hashinil/assets/33922245/be25117e-630a-4200-97c1-5e2dc714205a" title="pandas" alt="pandas" width="90" height="30"/>&nbsp;
+	<img src="https://github.com/hashinil/hashinil/assets/33922245/38772bb2-0320-410b-8dfe-ec16d85ca22b" title="numpy" alt="numpy" width="90" height="30"/>&nbsp;
+	<img src="https://github.com/hashinil/hashinil/assets/33922245/ea09a08a-fe83-4cd7-9bcb-8d965422f796" title="matplotlib" alt="matplotlib" width="90" height="30"/>&nbsp;
+	<img src="https://github.com/hashinil/hashinil/assets/33922245/35eb9c81-a6fa-4779-87ef-5a42d807654d" title="Seaborn" alt="Seaborn" width="90" height="30"/>&nbsp;
+	<img src="https://github.com/hashinil/hashinil/assets/33922245/ec73ce0b-355b-41fa-8a2a-3fd652317ad8" title="BS" alt="BS" width="90" height="30"/>&nbsp;
 </div> 
 </br>
 
