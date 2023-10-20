@@ -16,27 +16,69 @@
 	</a>
 </div>
 
------------------------------------------
+----------------------------------------
 
-📍  IT Professional, Passionate about **DATA** 
+:woman_technologist: IT Professional, passionate about **DATA.** 
 
 ‍🎓 **11+** years of experience in IT industry and holding a **BSc** in information technology.
 
-👩‍💻 Microsoft certified **‘Power BI Data Analyst’** and IBM Certified **'Data Science Professional'**.
+👩‍💻 Microsoft certified **‘Power BI Data Analyst’** and IBM certified **'Data Science Professional'.**
 
 📊 Data visualization and storytelling skills using **Power BI** and **Tableau**.
 
+👉 You will find my works/ skills bellow:
+
 -----------------------------------------
 
-👉 Check My Work/ Skills:
-
+## All Projects:
   - **[Portfolio](https://hashinil.github.io/HashiniLiyanage.github.io/index.html)**
+  - **[Git](https://github.com/hashinil/)**
     
-  - **[Tableau](https://hashinil.github.io/HashiniLiyanage.github.io/index.html)**
-  - **[PowerBI](https://hashinil.github.io/HashiniLiyanage.github.io/index.html)**
-  - **[Python](https://hashinil.github.io/HashiniLiyanage.github.io/index.html)**
-  - **[SQL](https://hashinil.github.io/HashiniLiyanage.github.io/index.html)**
-  - **[Excel](https://hashinil.github.io/HashiniLiyanage.github.io/index.html)**
-  - **[Portfolio](https://hashinil.github.io/HashiniLiyanage.github.io/index.html)**
+## Data Analytic Projects:
+  - **[Sql](https://github.com/hashinil/sql_for_data_analytics)**
+  - **[Excel](https://github.com/hashinil/excel_for_data_analytics)**
+  - **[Python](https://github.com/hashinil/python_all_projects)**
+  - **[PowerBI](https://github.com/hashinil/power_bi_for_data_analytics)**
+  - **[Tableau](https://public.tableau.com/app/profile/hashini.liyanage/vizzes)**
+    
+ ## Data Science Projects:
+  - **[Data Science](https://github.com/hashinil/IBM_Data_Science_Capstone_SpaceX)**
 
 -----------------------------------------
+### :hammer_and_wrench: Languages and Tools :
+
+**Data Analytic:**
+
+<div>
+	<img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="py" width="40" height="40"/>&nbsp;
+	<img width="35" alt="pbi" src="https://github.com/hashinil/hashinil/assets/33922245/5ba43b8e-aa52-4f99-b772-05f40da1a767">
+	<img width="30" alt="pbi" src="https://github.com/hashinil/hashinil/assets/33922245/21ca908f-0775-4ce5-93f9-98ea87039425">
+	<img width="33" alt="ex" src="https://github.com/hashinil/hashinil/assets/33922245/66217e2b-0469-430b-877a-6454e1744d30">
+	<img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="Mysql" alt="mysql" width="40" height="40"/>&nbsp;
+	<img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" title="Jupyter" alt="jupyter" width="40" height="40"/>&nbsp;
+	<b>Pandas, NumPy, matplotlib, Seaborn, BeautifulSoup, NoSQL</b>
+</div> 
+</br>
+
+**Other:**
+
+<div>
+	<img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" title="Php" alt="php" width="40" height="40"/>&nbsp;
+ 	<img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" title="HTML5" alt="html5" width="40" height="40"/>&nbsp;
+  	<img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg" title="CSS" alt="css" width="40" height="40"/>&nbsp;
+  	<img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JS" alt="js" width="40" height="40"/>&nbsp;  
+	<img src="https://github.com/devicons/devicon/blob/master/icons/yii/yii-original-wordmark.svg" title="yii" alt="Yii" width="40" height="40"/>&nbsp;
+	<img src="https://github.com/devicons/devicon/blob/master/icons/drupal/drupal-original-wordmark.svg" title="Drupal" alt="drupal" width="40" height="40"/>&nbsp;
+ 	<img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain-wordmark.svg" title="Django" alt="django" width="40" height="40"/>&nbsp;
+	<img src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original-wordmark.svg" title="flask" alt="flask" width="40" />&nbsp;
+	<img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original-wordmark.svg" title="BS" alt="bs" width="40" height="40"/>&nbsp;
+ 	<img src="https://github.com/devicons/devicon/blob/master/icons/jquery/jquery-original-wordmark.svg" title="Jquery" alt="jquery" width="40" height="40"/>&nbsp;
+	<img src="https://github.com/devicons/devicon/blob/master/icons/codeigniter/codeigniter-plain-wordmark.svg" title="codeigniter" alt="codeigniter" width="40" height="40"/>&nbsp;
+	<img src="https://github.com/devicons/devicon/blob/master/icons/pycharm/pycharm-original-wordmark.svg" title="pycharm" alt="pycharm" width="40" height="40"/>&nbsp;
+	<img src="https://github.com/devicons/devicon/blob/master/icons/anaconda/anaconda-original-wordmark.svg" title="anaconda" alt="anaconda" width="40" height="40"/>&nbsp;
+	<img src="https://github.com/devicons/devicon/blob/master/icons/matlab/matlab-original.svg" title="matlab" alt="matlab" width="40" height="40"/>&nbsp;
+	<img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="git" width="40" height="40"/>&nbsp;
+  	<img src="https://github.com/devicons/devicon/blob/master/icons/jira/jira-original-wordmark.svg" title="Jira" alt="jira" width="40" height="40"/>&nbsp;
+	<img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="linux" alt="linux" width="40" height="40"/>&nbsp;
+</div>
+
