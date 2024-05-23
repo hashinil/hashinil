@@ -20,7 +20,7 @@
 
 :woman_technologist: IT professional, passionate about **DATA.** 
 
-‍🎓 **11+** years of experience in IT industry and holding a **BSc** in information technology.
+‍🎓 **10+** years of experience in IT industry and holding a **BSc** in information technology.
 
 👩‍💻 Microsoft certified **‘Power BI Data Analyst’.** 
 
